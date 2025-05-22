@@ -207,7 +207,7 @@ console.log('longitude: ' + coordenada[1]);
 O tipo `object` é um tipo genérico. Tudo o que não é primitivo (como `number`, `string`, `boolean`, etc.) é um objeto. Inclusive Array e Funções.
 
 ```typescript
-et pessoa = {
+let pessoa = {
     nome: 'Alice',
     idade: 30,
 };
